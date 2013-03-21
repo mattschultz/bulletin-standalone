@@ -1,0 +1,10 @@
+@import "compass_twitter_bootstrap";
+
+textarea { display: block; }
+
+.truncate {
+  width: 250px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
